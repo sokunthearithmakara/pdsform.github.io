@@ -1,1 +1,4 @@
 /* CSS goes here*/
+[required], [required='required'] {
+  background: yellow
+}
