@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kantumruy|Roboto+Condensed');
 ion-app {
-font-family: Roboto Condensed, Kantumruy, sans-serif;
+font-family: Roboto Condensed, Kantumruy, sans-serif!important;
 }
 ion-app.app-root .core-tabs-bar a.tab-slide span {
 line-height: 2em;
