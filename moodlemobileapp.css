@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Kantumruy|Roboto+Condensed');
 ion-app.platform-android {
-font-family: Roboto Condensed, Kantumruy, sans-serif!important;
+    font-family: Roboto Condensed, Kantumruy, sans-serif!important;
 }
 ion-app.app-root .core-tabs-bar a.tab-slide span {
-line-height: 2em;
+    line-height: 2em;
 }
 .toolbar-background-md {
     border-color: #b2b2b2;
     background: #264da1!important;
+}
+.content-md {
+    color: #3a3a3a;
+    background-color: #fff;
+    line-height: 2rem;
 }
