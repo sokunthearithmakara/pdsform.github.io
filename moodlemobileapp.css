@@ -2,3 +2,6 @@
 ion-app.md {
 font-family: Roboto Condensed, Kantumruy, sans-serif;
 }
+ion-app.app-root .core-tabs-bar a.tab-slide span {
+line-height: 2em;
+}
