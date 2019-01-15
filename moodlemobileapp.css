@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Kantumruy|Roboto+Condensed');
-ion-app {
+ion-app.platform-android {
 font-family: Roboto Condensed, Kantumruy, sans-serif!important;
 }
 ion-app.app-root .core-tabs-bar a.tab-slide span {
