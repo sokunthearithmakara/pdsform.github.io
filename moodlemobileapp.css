@@ -5,3 +5,7 @@ font-family: Roboto Condensed, Kantumruy, sans-serif!important;
 ion-app.app-root .core-tabs-bar a.tab-slide span {
 line-height: 2em;
 }
+.toolbar-background-md {
+    border-color: #b2b2b2;
+    background: #264da1!important;
+}
