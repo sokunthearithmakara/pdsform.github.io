@@ -17,3 +17,23 @@ ion-app.app-root .core-tabs-bar a.tab-slide span {
 h1, h2, h3, h4, h5, h6, ion-app.app-root .item .item-heading {
     line-height: 1.5;
 }
+.addon-block-recentlyaccessedcourses .item-divider-md {
+    background: #CDDC39;
+}
+.addon-block-recentlyaccessedcourses .safe-area-page {
+    background: #E6EE9C;
+}
+.addon-block-myoverview .item-divider-md {
+    background: #2196F3;
+}
+.addon-block-myoverview .safe-area-page {
+    background: #90CAF9;
+}
+.addon-block-timeline .item-divider-md {
+    background: #FFC107;
+}
+.addon-block-timeline .safe-area-page {
+    background: #FFECB3;
+}
+
+
