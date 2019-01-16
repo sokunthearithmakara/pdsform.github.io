@@ -20,19 +20,19 @@ h1, h2, h3, h4, h5, h6, ion-app.app-root .item .item-heading {
 .addon-block-recentlyaccessedcourses .item-divider-md {
     background: #CDDC39;
 }
-.addon-block-recentlyaccessedcourses .safe-area-page {
+.addon-block-recentlyaccessedcourses core-loading {
     background: #E6EE9C;
 }
 .addon-block-myoverview .item-divider-md {
     background: #2196F3;
 }
-.addon-block-myoverview .safe-area-page {
+.addon-block-myoverview core-loading {
     background: #90CAF9;
 }
 .addon-block-timeline .item-divider-md {
     background: #FFC107;
 }
-.addon-block-timeline .safe-area-page {
+.addon-block-timeline core-loading {
     background: #FFECB3;
 }
 
