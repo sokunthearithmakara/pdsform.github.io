@@ -14,3 +14,6 @@ ion-app.app-root .core-tabs-bar a.tab-slide span {
     background-color: #fff;
     line-height: 2rem;
 }
+h1, h2, h3, h4, h5, h6, ion-app.app-root .item .item-heading {
+    line-height: 1.5;
+}
